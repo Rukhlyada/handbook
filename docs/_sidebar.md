@@ -2,6 +2,7 @@
     - [Onboarding](onboarding.md)
     - [Рабочие процессы](workprocess.md)
     - [Рабочий график](worktime.md)
+    - [Корпоративная культура](culture.md)
     - [Отпуска и отгулы](vacations.md)
     - [Обучение](education.md)
     - [Преимущества](perks.md)
